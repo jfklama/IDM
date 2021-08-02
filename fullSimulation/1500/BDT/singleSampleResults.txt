@@ -1,0 +1,74 @@
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, full sim cuts)
+BP21 ( 9100, 1574438) 0.0984 22.1386 4652.019 39503.36 0.5112 0.02509
+BP23 ( 14136, 1574438) 0.1029 36.3833 7071.03 30700.15 0.5002 0.0195
+HP17 ( 1588, 1574438) 0.1577 14.7166 630.0964 1203.07 0.3968 0.0007641
+HP20 ( 1495, 1574438) 0.1623 12.8926 522.1729 1118.226 0.3493 0.0007102
+HP3 ( 748, 1574438) 0.1577 5.17942 233.2366 1794.596 0.3118 0.00114
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, full sim cuts Mjj > 3, pT_lep > 2, qq bg. included )
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, full sim cuts Mjj > 3, pT_lep > 2, qq bg. included )
+BP21 ( 9100, 1617271) 0.1000 22.0876 4513.378 37241.34 0.496 0.02303
+BP23 ( 14136, 1617271) 0.1037 36.3206 7035.18 30483.26 0.4977 0.01885
+HP17 ( 1588, 1617271) 0.1582 13.7299 558.4499 1095.919 0.3517 0.0006776
+HP20 ( 1495, 1617271) 0.1572 12.5937 581.2909 1549.211 0.3888 0.0009579
+HP3 ( 748, 1617271) 0.1628 5.16976 220.2932 1595.475 0.2945 0.0009865
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, full sim cuts Mjj > 3, pT_lep > 2, qq bg. included, same var. ordering as in samples )
+BP21 ( 9100, 1617271) 0.0997 22.1217 4651.365 39559.06 0.5111 0.02446
+BP23 ( 14136, 1617271) 0.1042 36.1669 7200.796 32439.68 0.5094 0.02006
+HP17 ( 1588, 1617271) 0.1545 14.2512 626.7595 1307.437 0.3947 0.0008084
+HP20 ( 1495, 1617271) 0.1647 13.2896 489.193 865.7925 0.3272 0.0005353
+HP3 ( 748, 1617271) 0.1620 5.25036 202.9505 1291.226 0.2713 0.0007984
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples )
+BP21 ( 9108, 1663980) 0.1046 22.1131 4355.687 34442.62 0.4782 0.0207
+BP23 ( 14150, 1663980) 0.0970 36.2803 7567.806 35943.08 0.5348 0.0216
+HP17 ( 1605, 1663980) 0.1633 14.1221 583.8505 1125.396 0.3638 0.0006763
+HP20 ( 1500, 1663980) 0.1611 12.7284 551.2341 1324.287 0.3675 0.0007959
+HP3 ( 749, 1663980) 0.1679 5.51411 172.8383 809.6533 0.2308 0.0004866
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, no Mlv )
+BP21 ( 9108, 1663980) 0.1033 22.0553 4421.737 35772.14 0.4855 0.0215
+BP23 ( 14150, 1663980) 0.0989 36.412 7563.767 35586.82 0.5345 0.02139
+HP17 ( 1605, 1663980) 0.1717 13.6611 464.0964 690.005 0.2892 0.0004147
+HP20 ( 1500, 1663980) 0.1526 12.4652 620.312 1856.111 0.4135 0.001115
+HP3 ( 749, 1663980) 0.1519 5.40116 243.747 1792.848 0.3254 0.001077
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, signal sample split )
+BP21 ( 9108, 1663980) 0.0937 21.7346 4354.209 35780.19 0.4781 0.0215
+BP23 ( 14150, 1663980) 0.0949 36.1164 7155.788 32100.16 0.5057 0.01929
+HP17 ( 1605, 1663980) 0.1562 14.2579 532.4477 862.1362 0.3317 0.0005181
+HP20 ( 1500, 1663980) 0.1621 12.5542 474.6403 954.7611 0.3164 0.0005738
+HP3 ( 749, 1663980) 0.1564 6.04214 180.5934 712.7575 0.2411 0.0004283
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, signal sample split )
+BP21 ( 9108, 1663980) 0.0894 21.6516 4645.23 41383.97 0.51 0.02487
+BP23 ( 14150, 1663980) 0.0993 35.9998 6706.405 27997.5 0.474 0.01683
+HP17 ( 1605, 1663980) 0.1509 13.8609 582.3156 1182.636 0.3628 0.0007107
+HP20 ( 1500, 1663980) 0.1496 12.2647 579.4629 1652.766 0.3863 0.0009933
+HP3 ( 749, 1663980) 0.1614 5.79791 173.7334 724.1592 0.232 0.0004352
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, signal sample splitted )
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, signal sample splitted, no Mlv )
+BP21 ( 9108, 1663980) 0.0902 21.5511 4443.804 38073.85 0.4879 0.02288
+BP23 ( 14150, 1663980) 0.0893 35.7045 7526.402 36909.01 0.5319 0.02218
+HP17 ( 1605, 1663980) 0.1677 14.146 377.1505 333.6728 0.235 0.0002005
+HP20 ( 1500, 1663980) 0.1547 12.3659 519.839 1247.363 0.3466 0.0007496
+HP3 ( 749, 1663980) 0.2055 5.59244 46.74898 23.12911 0.06242 1.39e-05
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, signal sample splitted, no Mlv )
+BP21 ( 9108, 1663980) 0.0958 21.8946 4260.689 33608.49 0.4678 0.0202
+BP23 ( 14150, 1663980) 0.0950 35.8764 6994.212 31012.47 0.4943 0.01864
+HP17 ( 1605, 1663980) 0.1544 13.5626 541.0862 1050.558 0.3371 0.0006314
+HP20 ( 1500, 1663980) 0.1623 12.1981 450.8121 915.0444 0.3005 0.0005499
+HP3 ( 749, 1663980) 0.1608 5.72047 174.8005 758.9308 0.2334 0.0004561
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, signal sample splitted )
+BP21 ( 9108, 1663980) 0.0908 21.7269 4466.693 37797.8 0.4904 0.02272
+BP23 ( 14150, 1663980) 0.1071 36.1988 5920.743 20831.69 0.4184 0.01252
+HP17 ( 1605, 1663980) 0.1603 14.4381 507.3174 727.3233 0.3161 0.0004371
+HP20 ( 1500, 1663980) 0.1548 12.4965 538.9657 1321.167 0.3593 0.000794
+HP3 ( 749, 1663980) 0.1935 5.71156 69.81859 79.60986 0.09322 4.784e-05
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, same var. ordering as in samples, signal sample splitted )
+BP21 ( 9108, 1663980) 0.0885 21.8181 4460.808 37340.75 0.4898 0.02244
+BP23 ( 14150, 1663980) 0.0929 35.8376 7290.098 34089.64 0.5152 0.02049
+HP17 ( 1605, 1663980) 0.1630 13.6249 478.6532 755.5252 0.2982 0.000454
+HP20 ( 1500, 1663980) 0.1584 12.6738 500.8192 1060.708 0.3339 0.0006375
+HP3 ( 749, 1663980) 0.1712 5.78372 127.2385 356.7357 0.1699 0.0002144
+channel (  #signal, #backgr.)  Optimal-cut  S/sqrt(S+B)      NSig      NBkg   EffSig   EffBkg (PCA, no pruning, fast sim cuts, qq bg. included, signal sample splitted, no Mlv )
+BP21 ( 9108, 1663980) 0.0858 21.6885 4852.543 45205.98 0.5328 0.02717
+BP23 ( 14150, 1663980) 0.0977 36.1203 6765.986 28322.13 0.4782 0.01702
+HP17 ( 1605, 1663980) 0.1614 14.5103 470.6037 581.2592 0.2932 0.0003493
+HP20 ( 1500, 1663980) 0.1663 12.2546 419.8248 753.8324 0.2799 0.000453
+HP3 ( 749, 1663980) 0.1767 5.91293 118.7526 284.5961 0.1585 0.000171
